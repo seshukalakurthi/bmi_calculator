@@ -4,11 +4,7 @@
 name:  Actions CI
 
 on:
-  push:
-    branches: [ "main" ]
-env:
-  AZURE_WEBAPP_NAME: bmilabwebapp
-  AZURE_WEBAPP_PACKAGE_PATH: '.'
+  workflow_dispatch: 
   
 jobs:
   build:

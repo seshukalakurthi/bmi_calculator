@@ -1,3 +1,2 @@
-# bmi2025lab
+# BMI  Calculator
 BMI lab activity
-

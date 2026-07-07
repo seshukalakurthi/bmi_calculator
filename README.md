@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A web-based BMI (Body Mass Index) calculator built with ASP.NET (C#), with an automated CI pipeline using GitHub Actions and deploying to azure web apps.
+A web-based BMI (Body Mass Index) calculator built with ASP.NET (C#), with an automated CI/CD pipeline using GitHub Actions and deploying to azure web apps.
 
 ## What it does
 
